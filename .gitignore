@@ -1,0 +1,6 @@
+*.sqlite3
+__pycache__
+todo/
+user_auth/
+coore/
+manage.py
